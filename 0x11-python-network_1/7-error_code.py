@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A python script which 
+"""A python script which
 - takes in a URL
 - sends a request to the URL
 - displays the body of the response.
